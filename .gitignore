@@ -1,0 +1,6 @@
+/Distribuidoras/
+/venv/
+*.pyc
+.DS_Store
+.idea
+.vscode/
