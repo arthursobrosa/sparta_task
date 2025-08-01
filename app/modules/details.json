@@ -1,0 +1,56 @@
+{
+    "headers": [
+        {
+            "items": [
+                "Revisão", 
+                "Revisão e Reajuste", 
+                "Reajuste de novo contrato", 
+                "Revisão e Reajuste"
+            ],
+            "repeats": true,
+            "repetitions": [81, 3, 1, 18],
+            "tabs": [],
+            "coordinates": []
+        },
+        {
+            "items": [
+                "", "CAA", "CAIMI", "O&M reg.", "valor", "peso", "Receita Compartilhada", "RI", "FATOR X", "RR", "Mercado Fornecimento", "Mercado Livre", "Mercado"
+            ],
+            "repeats": true,
+            "repetitions": [
+                1, 21, 4, 33, 11, 11, 4, 2, 3, 7, 3, 2, 1
+            ],
+            "tabs": [],
+            "coordinates": []
+        },
+        {
+            "items": [
+                "Ciclo - Anos", "CAA - AIS", "CAA - IA bruto", "CAA - OeB-Bruta", "CAA - BensTotalmente Depreciados",
+                "Depreciação Acumulada", "AIS Líquido", "CAA - IA depreciado", "VBR", "Almoxarifado em Operação",
+                "Ativo Diferido", "OES Líquida", "Terrenos ou Servidões", "Saldo RGR PLPT", "Saldo RGR demais",
+                "CAA - Tx. Depreciação", "WACC", "Taxa RGR/PLPT real", "Taxa RGR/demais", "rp",
+                "prêmio", "Imposto", "BAR", "CAL", "CAV",
+                "CAI", "VPB AT", "CO rev", "VPB rev", "Xt rev",
+                "Ano", "CO - Pessoal t-2", "CO - Material t-2", "CO - Terceiros t-2", "CO - Seguros t-2",
+                "CO - Tributos t-2", "CO - Outros t-2", "CO - Demais t-2", "Ano", "CO - Pessoal t-1",
+                "CO - Material t-1", "CO - Terceiros t-1", "CO - Seguros t-1", "CO - Tributos t-1", "CO - Outros t-1",
+                "CO - Demais t-1", "IPCA RTP", "IPCA Eficiência", "CO Ef. Data do cálculo", "Ef. Média", "Ef. Empresa",
+                "LS", "LI", "Co Real no cálculo da Ef.", "Indicador Médio PNT", "Meta", "DEC Médio", "Limite V8",
+                "u", "Escala", "Sub(km)", "RAerea (km)", "Rede AT (km)", "Ucs", "PNT (MWh)", "Chi",
+                "Mercado Ponderado (MWh)", "Mercado AT (MWh)", "Mercado MT (MWh)", "Mercado BT (MWh)",
+                "Escala", "Sub(km)", "RAerea (km)", "Rede AT (km)", "Ucs", "PNT (MWh)", "Chi",
+                "Mercado Ponderado (MWh)", "Mercado AT (MWh)", "Mercado MT (MWh)", "Mercado BT (MWh)",
+                "OR", "UD", "ER", "Fator DR1", "RI enc", "RI demais", "PD", "XT", "XQ", "RA0", "IGPM", "IPCA",
+                "ENCARGOS", "TRANSPORTE", "ENERGIA", "PB", "BT", "MT", "AT", "A1", "demais", "Distribuição"
+            ],
+            "repeats": false,
+            "repetitions": [],
+            "tabs": [
+                "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "VPB e Fator X", "", "", "", "", "", "", "VPB1", "VPB1", "VPB1", "Resultado", "VPB1", "VPB1", "Resultado", "Resultado", "Resultado", "", "Mercado", "Mercado", "Mercado", "Mercado", "Mercado", "Mercado"
+            ],
+            "coordinates": [
+                "C7", "C71", "C72", "C73", "C74", "C82", "C83", "C84", "C85", "C86", "C87", "C88", "C89", "C91", "C92", "C76", "F81", "F82", "F83", "G92", "G93", "G94", "C60", "C64", "C65", "C66", "C102", "C103", "C104", "C105", "F110", "F113", "F114", "F115", "F116", "F117", "F118", "F119", "G110", "G113", "G114", "G115", "G116", "G117", "G118", "G119", "C125", "C126", "C127", "C130", "C131", "C132", "C133", "C134", "D140", "D141", "D142", "D143", "D144", "D146", "D147", "D148", "D149", "D150", "D151", "D152", "D153", "D154", "D155", "D156", "E146", "E147", "E148", "E149", "E150", "E151", "E152", "E153", "E154", "E155", "E156", "", "", "", "", "", "", "F40", "F41", "F42", "D5", "F38", "F39", "D19", "D29", "D38", "", "C16", "ADD-C13-C14", "ADD-C10-C11-C12", "C18", "C19", "C20"
+            ]
+        }
+    ]
+}

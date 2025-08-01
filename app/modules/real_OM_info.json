@@ -1,0 +1,15 @@
+{
+    "base_name": "O&M Real - Conta",
+    "items": [
+        "Pessoal", "Materiais", "Terceiros", "Seguros", "Tributos", "Outros", "Demais"
+    ],
+    "sub_items": [
+        ["ano", "Remuneração", "Encargos", "Previdência Privada - Corrente", "Outros Benefícios", "Despesas Rescisórias", "Participação nos Lucros e Resultados - PLR", "Outros", "(-) Créditos de Tributos Recuperáveis", "Administradores", "Subtotal"],
+        ["Materiais", "Outros", "(-) Créditos de Tributos Recuperáveis", "Subtotal"],
+        ["Manut. e Conserv. Bens e Instalações vinculadas ao Serviço Concedido", "Auditoria e Consultoria", "Serviços Jurídicos", "Serviços de Informática", "Viagens (Passagens Aéreas, etc)", "Transportes (inclui Fretes)", "Propaganda e Publicidade (exceto Publicações Oficiais)", "Publicações Oficiais", "Serviço de Engenharia e Supervisão de Obras", "Gestão Comercial", "Outros Serviços Terceirizados", "(-) Créditos de Tributos Recuperáveis", "Transferências da Administração Central", "Subtotal"],
+        ["Seguros", "Outros", "(-) Créditos de Tributos Recuperáveis", "Subtotal"],
+        ["Tributos"],
+        ["Indenização por Perdas e Danos", "Consumo Próprio de Energia", "Despesas com Conselho de Consumidores", "Comunicação e Reprografia", "Taxa de Arrecadação", "Taxas Bancárias", "(-) Créditos de Tributos Recuperáveis", "Subtotal"],
+        ["Condenações Trabalhistas", "Gastos com CCEE", "Perdas na Alienação e Desativação", "Ganhos na Alienação de Materiais"]
+    ]
+}
